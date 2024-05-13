@@ -11,12 +11,16 @@ const Main = () => {
           </h1>
           <div>
             <p className="md:text-xl py-4 font-bold text-[#338084] w]">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Voluptatum autem mollitia, exercitationem suscipit aliquid quas
-              incidunt nam debitis harum sapiente recusandae accusamus adipisci
-              ratione officiis odio eaque, hic optio quasi explicabo! Esse, a
-              illo. Ratione facilis autem quidem tempore consequatur odit fuga
-              minus, laborum, atque doloribus voluptas. At, labore magni.
+              The aim of this study is to utilize remote sensing technology and
+              satellite imagery to construct a precise and prompt predictive
+              framework for the surveillance and prediction of Dengue outbreaks.
+              This endeavor seeks to amalgamate environmental data obtained
+              through remote sensing platforms with archival disease records to
+              formulate a predictive instrument beneficial for public health
+              agencies in preemptive Dengue mitigation endeavors. Ultimately,
+              this initiative endeavors to enhance early detection mechanisms,
+              mitigate the consequences of Dengue outbreaks, and augment the
+              general readiness of public health systems.
             </p>
           </div>
           <Button
