@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dengue-app/static/css/main.e65498c3.css",
-    "main.js": "/dengue-app/static/js/main.e551e399.js",
+    "main.js": "/dengue-app/static/js/main.601f4b4e.js",
     "index.html": "/dengue-app/index.html",
     "main.e65498c3.css.map": "/dengue-app/static/css/main.e65498c3.css.map",
-    "main.e551e399.js.map": "/dengue-app/static/js/main.e551e399.js.map"
+    "main.601f4b4e.js.map": "/dengue-app/static/js/main.601f4b4e.js.map"
   },
   "entrypoints": [
     "static/css/main.e65498c3.css",
-    "static/js/main.e551e399.js"
+    "static/js/main.601f4b4e.js"
   ]
 }
